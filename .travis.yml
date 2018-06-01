@@ -12,7 +12,7 @@ cache:
 
 env:
   global:
-    - SONAR_TOKEN=eb21f40ecb59f211d58e51d1fea3f4516f73bfbc
+    - SONAR_TOKEN=f5d62ebd1e835bac90caa240699795d0fcc29e70
     - DOCKER_USER=shboland
     - DOCKER_PASS=.widb-7e3Ndockerhub
 
